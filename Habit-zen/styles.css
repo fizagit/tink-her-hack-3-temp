@@ -1,15 +1,15 @@
 /* General Styling */
 body{
-    font-family: Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     text-align:center;
     margin: 20px;
-    background-color: #c406dd;
+    background-color: #eef778;
 }
 
 /* Header */
 header {
-    background-color: #3c9e3f;
-    color: rgb(179, 66, 66);
+    background-color: #f9fd1be3;
+    color: rgb(109, 42, 16);
     padding: 10px 0;
 }
 
@@ -21,7 +21,7 @@ h1 {
 main {
     margin: 20px auto;
     width: 300px;
-    background: white;
+    background: rgb(255, 253, 253);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -35,8 +35,8 @@ button {
     margin-top: 10px;
     padding: 10px 20px;
     border: none;
-    background-color: #4caf50;
-    color: white;
+    background-color: #133cac;
+    color: rgb(50, 57, 59);
     border-radius: 5px;
     cursor: pointer;
 }
@@ -48,12 +48,12 @@ button:hover {
 /* Progress Section */
 #progress {
     font-size: 1.2em;
-    color: #333;
+    color: #8a5716;
+    font-weight: bold;
 }
-
 /* Footer */
 footer {
     margin-top: 20px;
-    font-size: 0.9em;
-    color: #555;
+    font-size: 1.7em;
+    color: #0a0606;
 }
