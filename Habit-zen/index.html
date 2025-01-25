@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Habit Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Health Habit Tracker</h1>
+    </header>
+    <main>
+        <form id="habitForm">
+            <h2>Track Your Daily Habits</h2>
+            <label>
+                <input type="checkbox" id="water" name="water">
+                Drink 8 glasses of water
+            </label><br>
+            <label>
+                <input type="checkbox" id="steps" name="steps">
+                Walk 5,000 steps
+            </label><br>
+            <label>
+                <input type="checkbox" id="sleep" name="sleep">
+                Sleep 7 hours
+            </label><br>
+            <button type="button" onclick="trackHabits()">Submit</button>
+        </form>
+        <div id="progress"></div>
+    </main>
+    <footer>
+        <p>Stay consistent and stay healthy!</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

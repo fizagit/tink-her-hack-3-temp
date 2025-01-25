@@ -1,0 +1,59 @@
+/* General Styling */
+body{
+    font-family: Arial, sans-serif;
+    text-align:center;
+    margin: 20px;
+    background-color: #c406dd;
+}
+
+/* Header */
+header {
+    background-color: #3c9e3f;
+    color: rgb(179, 66, 66);
+    padding: 10px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+/* Main Form */
+main {
+    margin: 20px auto;
+    width: 300px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #4caf50;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Progress Section */
+#progress {
+    font-size: 1.2em;
+    color: #333;
+}
+
+/* Footer */
+footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #555;
+}
