@@ -11,13 +11,14 @@ body{
 
 /* Header */
 header {
-    background-color: #b02aeee3;
-    color: rgb(31, 5, 32);
+    background-color: #4a097000;
+    color: rgba(143, 7, 148, 0.904);
     padding: 10px 0;
 }
 
 h1 {
     margin: 0;
+    font-size: 50px;
 }
 
 /* Main Form */
