@@ -10,8 +10,6 @@
 - Member 2: Parvathi M.S - LBS INSTITUTE OF TECHNOLOGY FOR WOMEN POOJAPPURA , TRIVANDRUM
 - Member 3: Megha R - LBS INSTITUTE OF TECHNOLOGY FOR WOMEN POOJAPPURA , TRIVANDRUM
 
-### Hosted Project Link
-mention your project hosted project link here
 
 ### Project Description
 Our project does tracking of daily hours of sleep , glasses of water drank, and steps walked {min of 5000}
