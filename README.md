@@ -2,30 +2,29 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Dynamic Dynamos]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Fiza Fathima N] - [LBS INSTITUTE OF TECHNOLOGY FOR WOMEN POOJAPPURA , TRIVANDRUM]
+- Member 2: [Parvathi M.S] - [LBS INSTITUTE OF TECHNOLOGY FOR WOMEN POOJAPPURA , TRIVANDRUM]
+- Member 3: [Megha R] - [LBS INSTITUTE OF TECHNOLOGY FOR WOMEN POOJAPPURA , TRIVANDRUM]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Our project does tracking of daily hours of sleep , glasses of water drank, and steps walked {min of 5000}]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+[ ]
 ### The Solution
-[How are you solving it? Keep it fun!]
+[To maintain a healthy life by concentrating on basic steps to be taken by everyone.Cuz beginning is hardest part.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Html , javascript, css]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
