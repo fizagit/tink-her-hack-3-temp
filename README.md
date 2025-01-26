@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# [HABIT ZEN] 🎯
 
 
 ## Basic Details
