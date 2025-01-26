@@ -3,13 +3,16 @@ body{
     font-family: 'Courier New', Courier, monospace;
     text-align:center;
     margin: 20px;
-    background-color: #eef778;
+    background-image: url('purple.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 /* Header */
 header {
-    background-color: #f9fd1be3;
-    color: rgb(109, 42, 16);
+    background-color: #b02aeee3;
+    color: rgb(31, 5, 32);
     padding: 10px 0;
 }
 
@@ -35,25 +38,25 @@ button {
     margin-top: 10px;
     padding: 10px 20px;
     border: none;
-    background-color: #133cac;
-    color: rgb(50, 57, 59);
+    background-color: #6e0357;
+    color: rgb(245, 249, 250);
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #971e7d;
 }
 
 /* Progress Section */
 #progress {
     font-size: 1.2em;
-    color: #8a5716;
+    color: #1f0a42;
     font-weight: bold;
 }
 /* Footer */
 footer {
     margin-top: 20px;
     font-size: 1.7em;
-    color: #0a0606;
+    color: #a1006c;
 }
